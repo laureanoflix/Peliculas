@@ -53,18 +53,14 @@ http://archive.org/download/as_20210117/AS.mp4
 							
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jRz69dL/007-Casino-Royale.jpg",007 - Casino Royale							
 http://archive.org/download/mio53_yopmail_5/5.mp4							
-
-#EXTINF:-1 tvg-logo="",							
-https://archive.org/download/comando_202004/Comando.avi																					
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmzxWGx/Congo.jpg",CONGO							
 https://archive.org/download/africa_202004/africa/africa.mp4														
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2wbz3M/ndice.jpg",CONTRABANDO							
 http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/16.mp4													
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhdbqFJ/crank-666429986-large.png",CRANK 							
 http://archive.org/download/sam-1894/Resoure_qr4nk%201.mp4														
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZT38Cvf/crank-high-voltage-688095821-large.png", CRANK 2							
-							
+#EXTINF:-1 tvg-logo="",CRANK 2 	
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJy6MNn/kingdom-of-heaven-995600693-large.png",CRUZADA							
 http://archive.org/download/meyabaror_netmails_3/3.mp4														
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WF3tSSz/cyborg-817137843-large.png",CYBORG 							
@@ -132,7 +128,7 @@ https://archive.org/download/7823964/1231230001.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vDJ3yR/IP-man-2.jpg",Ip Man 2							
 https://archive.org/download/7823964/1231230002.mp4														
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f8qLBjr/IP-man-3.jpg",Ip Man 3							
-https://archive.org/download/7823964/1231230003.mp4														
+														
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBWC10y/IP-man-4.jpg",Ip Man 4							
 https://archive.org/download/7823964/1231230004.mp4																					
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRT5T1J/undisputed-ii-last-man-standing-163436757-large.png",INVICTO 2							
@@ -158,13 +154,7 @@ http://archive.org/download/KingsmanElServicioSecreto/Kingsman%20El%20Servicio%2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tcWp1KM/kingsman-the-golden-circle-211353775-large.png",KINGSMAN 2 EL CIRCULO DORADO							
 http://archive.org/download/KingsmanElCrculoDorado/Kingsman%20El%20c%C3%ADrculo%20dorado.mp4														
 #EXTINF:-1 tvg-logo="https://archive.org/download/lod_20210405/lod.png",LA FUERZA DE LA NATURALEZA							
-https://archive.org/download/52_20210405/52.mp4													
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbGcFRW/Sin-City.jpg", Sin City: La Ciudad del Pecado (2005)							
-
-#EXTINF:-1 tvg-logo="",nose 							
-http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/8.avi														
-
+https://archive.org/download/52_20210405/52.mp4																						
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLFhCV4/ocean-s-eleven-607328113-large-copia.png",LA GRAN ESTAFA							
 http://archive.org/download/hoyivuc_mailprotech_1_201902/1.mp4														
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MP9dhPd/a-good-day-to-die-hard-die-hard-5-815402463-large.png",LA JUNGLA UN BUEN DIA PARA MORIR							
