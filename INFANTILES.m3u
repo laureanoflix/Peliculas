@@ -296,7 +296,8 @@ https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F1
 https://archive.org/download/rocoto/rocoto/rocoto.mkv																									
 																									
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n0nhMS9/monstersinc.jpg",Monsters Inc.																									
-																									
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJfQsKT/mulan-807158695-large.png", Mulan
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv																								
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y627zyF/Mulan.jpg",Mulan																									
 https://dl.dropbox.com/s/6d4wa59jdkdt65t/mulan.mp4																																																		
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7FRZ3z/miraculous.jpg", Miraculous World New york United Heroez.																									
@@ -307,7 +308,10 @@ https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X
 https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.avi																									  																									
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHYV8Sb/otrapelicula-dehuevos.jpg",Otra Película de Huevos y un Pollo																									
 https://archive.org/download/534_20191230/456.mp4																									
-																																																																																																			
+#EXTINF: -1 tvg-logo="https://i.ibb.co/BKBDRXC/paw-patrol-the-movie-626479283-large.png", Paw Patrol La Película
+https://dl.dropbox.com/s/t4698nit5wrrl88/Paw%20Patrol%20the%20movie%20esp.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/paw-patrol-mighty-pups-save-adventure-bay/paw%20patrol%20mighty%20pups%20save%20adventure%20bay.jpg" , Cachorros poderosos de la patrulla canina
+https://archive.org/download/paw-patrol-mighty/Paw%20Patrol%20Mighty.MP4																																																																																																		
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mcVTnKh/peque-os-guerreros.jpg",Pequeños Guerreros																									
 https://archive.org/download/3spe3c1as/r3c3t4r1o/p1m13ntaverde/p1m13ntaverde.mp4																									
  																									
@@ -383,6 +387,8 @@ https://dl.dropbox.com/s/p1l2cs9njbqbawk/space%20jam.mp4
 https://splogs-my.sharepoint.com/:v:/g/personal/laureanobrizuela_my365_ws/EbAWDGJYdEpKhlR64Pt6stwBMjCZLOkZ5N-Gg58CupAp-A?download=1																																																		 																									
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ZZfWFd/TArzan.jpg",Tarzán																									
 https://dl.dropbox.com/s/raytm16889vnecs/tarzan.mp4																																																		
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4fX1jz7/the-loud-house-258786383-large.png", The Loud House La Película
+https://dl.dropbox.com/s/ngmn87uijiupjok/The%20Loud%20House%20La%20pel%C3%ADcula.mp4
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/170687/movieposter/the-boxtrolls-53aaa56000720.jpg",The Boxtrolls																									
 https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4																																																		
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZTHDVz/tierraa-de-osos.jpg",Tierra de Osos																									
@@ -410,9 +416,12 @@ https://archive.org/download/ts4ps/ts4ps.mkv
 https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4																																																		
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5cP1yL/Lamp-Life.jpg",Toy Story - Lamp Life (Corto)																									
 https://archive.org/download/lampara_202003/lampara.mkv																									
-																									
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYFTcz0/trollhunters-rise-of-the-titans-763556630-large.png", TrollHunters (la rebelión de los titanes)																								
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4CMNW1/trolls2-2020.jpg",Trolls 2 (2020)																									
-																									
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvKsc5X/Un-Show-Mas.jpg", Un Show mas: La Pelicula
+https://archive.org/download/4b1_20200101/514.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GRCvqv7/mouse-hunt-747655244-large.png",UN RATONCITO DURO DE CAZAR																									
 http://archive.org/download/r4t_20201001/r4t.mp4																																																																											
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvKsc5X/Un-Show-Mas.jpg",Un Show más: La Película																									
